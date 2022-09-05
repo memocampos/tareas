@@ -1,8 +1,7 @@
 import './App.css';
 import logo from './logo.png';
 import ListaDeTareas from './componentes/ListaDeTareas';
-
-
+import React from 'react';
 
 function App() {
   return (
